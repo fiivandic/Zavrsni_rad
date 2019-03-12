@@ -1,2 +1,2 @@
 # zavrsni_rad
-.NEt application that uses RFId techology for managing sport events and record sport results.
+.NEt application that uses RFID techology for managing sport events and record sport results.
